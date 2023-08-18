@@ -33,6 +33,8 @@ This project consists of some Java classes, `Calculator`, `Reading` and `Menu`, 
 4. Click on the 3 dots and then "Export".
 5. Just use my program!
 
+You have an example data in this file : [dataExample](dataExample)
+
 ## Features
 
 Here are some things you can do with the program:
