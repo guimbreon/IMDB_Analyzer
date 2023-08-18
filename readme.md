@@ -13,7 +13,8 @@ that has an [IMDB](https://www.imdb.com/) account to analyze their data.
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Example](#example)
+- [Example with Menu](#example_with_menu)
+- [Example without Menu](#example_without_menu)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -33,12 +34,12 @@ This project consists of some Java classes, `Calculator`, `Reading` and `Menu`, 
 4. Click on the 3 dots and then "Export".
 5. Just use my program!
 
-You have an example data in this file : [dataExample](dataExample)
+You have an example data in this file : [dataExample](dataExample).
 
 ## Features
 
-Here are some things you can do with the program:
-
+Here are some things you can do with the program using the [Menu](#example_with_menu):
+1. 
 
 
 ## Usage
