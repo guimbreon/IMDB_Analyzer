@@ -13,8 +13,8 @@ that has an [IMDB](https://www.imdb.com/) account to analyze their data.
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Example with Menu](#example_with_menu)
-- [Example without Menu](#example_without_menu)
+- [Example with Menu](#example-with-menu)
+- [Example without Menu](#example-without-menu)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -38,8 +38,12 @@ You have an example data in this file : [dataExample](dataExample).
 
 ## Features
 
-Here are some things you can do with the program using the [Menu](#example_with_menu):
-1. 
+Here are some things you can do with the program using the [Menu](#example-with-menu):
+1. View your mean Rating Value.
+2. The year with most movies watched.
+3. The mean Year of the watched movies.
+4. How many movies from a specific movie you have rated.
+5. What are the movies from a specific year I rated.
 
 
 ## Usage

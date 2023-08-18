@@ -21,11 +21,11 @@ public class Menu {
             try{
                 System.out.println("""
                         What do you want to do?
-                        1- View your mean Rating Value!
-                        2- What's the year with most movies watched?
-                        3- What's the mean Year of the watched movies?
-                        4- How many movies from a specific movie have I rated?
-                        5- What are the movies from a specific year I rated?
+                        1. View your mean Rating Value!
+                        2. What's the year with most movies watched?
+                        3. What's the mean Year of the watched movies?
+                        4. How many movies from a specific movie have I rated?
+                        5. What are the movies from a specific year I rated?
                         """);
                 int choice = Integer.parseInt(scanner.nextLine());
                 switch (choice) {
