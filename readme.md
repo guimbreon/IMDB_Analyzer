@@ -62,7 +62,7 @@ To use the functionalities provided by this project, follow these steps:
 
 ## Example with Menu
 
-Just run the following commands in your machine:
+Just run the following commands in the folder ./imdb/src:
 
 
 ```terminal
