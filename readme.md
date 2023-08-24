@@ -4,8 +4,9 @@
 The idea behind this Java project is to make it possible for everyone 
 that has an [IMDB](https://www.imdb.com/) account to analyze their data.
 
+🛠️ **Work in Progress**
 
-
+This project is an ongoing effort, and we're actively working on further enhancements and additions. Stay tuned for more updates! 🚀
 ## Table of Contents
 
 - [Introduction](#introduction)
