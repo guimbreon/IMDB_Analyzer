@@ -12,18 +12,17 @@ public class SearchYear {
 
 
     public void meanYear(List<String[]> csvData){
-        int i = 0;
-        double sum = 0;
+        int sum = 0;
 
         for (String[] row : csvData) {
-            if (i != 0) {
-                sum += Double.parseDouble(row[8]);
-            } else {
-                i = 13;
+            try {
+                int year = Integer.parseInt(row[8]);
+                sum += year;
+            } catch (NumberFormatException e) {
+                //Here it'll be only the first line of the csv
             }
         }
-        sum = sum / (csvData.size() - 1);
-        theYear = (int) sum;
+        theYear = sum / (csvData.size() - 1);
     }
 
 
@@ -35,7 +34,6 @@ public class SearchYear {
                 int year = Integer.parseInt(row[8]);
                 frequencyMap.put(year, frequencyMap.getOrDefault(year, 0) + 1);
             } catch (NumberFormatException e) {
-                // Handle parsing error if necessary
                 System.out.println("Something in your data isn't in the right format.");
             }
         }

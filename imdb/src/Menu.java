@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Menu {
     public static void main(String[] args) {
 
-        List<String[]> csvData = Reading.readFile("/home/guimbreon/Desktop/git/IMDB/ratings.csv");
+        List<String[]> csvData = Reading.readFile("/home/guimbreon/Desktop/git/IMDB/dataExample/ratings.csv");
         Scanner scanner = new Scanner(System.in);
         /*Scanner scanner = new Scanner(System.in);
         System.out.println("What's the file source you want to analyze?\n");
