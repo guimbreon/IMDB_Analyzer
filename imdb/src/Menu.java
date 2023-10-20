@@ -4,15 +4,15 @@ import java.util.Scanner;
 public class Menu {
     public static void main(String[] args) {
 
-        List<String[]> csvData = Reading.readFile("/home/guimbreon/Desktop/git/IMDB/dataExample/ratings.csv");
+
         Scanner scanner = new Scanner(System.in);
-        /*Scanner scanner = new Scanner(System.in);
         System.out.println("What's the file source you want to analyze?\n");
         List<String[]> csvData = Reading.readFile(scanner.nextLine());
-*/
+
         /*Initializing the functions*/
         Calculator calculator = new Calculator();
         SearchYear searchYear = new SearchYear();
+        DataBase dataBase = new DataBase();
 
         String myYear; //Used when you are searching for specific years.
 
@@ -60,6 +60,10 @@ public class Menu {
                         System.out.println("\nThe Movies that were made that year are:\n");
                         searchYear.filmYear(csvData, myYear);
                         out = 2;
+                    }
+                    case 6 -> {
+                        System.out.println("Database is being created!");
+                        dataBase.check(csvData);
                     }
                     default -> {
                         System.out.println("The number you inserted, is not a valid answer!");

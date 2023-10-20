@@ -11,6 +11,7 @@ This project is an ongoing effort, and we're actively working on further enhance
 
 - [Introduction](#introduction)
 - [How to get the DATA](#how-to-get-the-data)
+- [How to connect to a Database](#how-to-connect-to-a-database)
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
@@ -37,6 +38,28 @@ This project consists of some Java classes, `Calculator`, `Reading` and `Menu`, 
 
 You have an example data in this file : [dataExample](dataExample).
 
+## How to connect to a database
+
+
+If you are using the Intelij Idea IDE:
+
+    File --> Project Structure --> + --> JARs or directories --> Select folder on [lib]()
+
+For the next steps you can either follow them OR run this [file](user_config.sql)
+### Create a database user!
+Open mysql on your terminal and enter this:
+
+    CREATE USER 'tester'@'localhost' IDENTIFIED BY 'StrongerPassword123!';
+
+'tester' and 'StrongerPassword123!' can be changed to a username and password of your choice!
+
+### Grant access to the user:
+Type the following command on the mysql terminal/interface:
+
+    GRANT ALL PRIVILEGES ON Testing.* TO 'tester'@'localhost';
+
+'Testing' --> can be changed by your database!
+
 ## Features
 
 Here are some things you can do with the program using the [Menu](#example-with-menu):
@@ -61,6 +84,13 @@ To use the functionalities provided by this project, follow these steps:
 2. Include all the file in this [file](imdb/src)
  in your Java project.
 3. Get the [data](#how-to-get-the-data) from your IMDB profile.
+
+Don't forget to see if there are any missing things in your data!
+
+When you open it in any program(e.g. Excel or LibreOffice Calc), check for empty cells, if there are any, do this:
+
+    Select "Search/Find and Replace";
+    Search for nothing and then change it to "Unknown"(without the "").
 
 ## Installation
 

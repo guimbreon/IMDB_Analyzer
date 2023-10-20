@@ -7,15 +7,20 @@ import java.util.List;
 public class Reading {
     public static List<String[]> readFile(String file) {
         List<String[]> csvData = new ArrayList<>();
-        int i = 0;
         try (BufferedReader br = new BufferedReader(new FileReader(file))) {
             String line;
             while ((line = br.readLine()) != null) {
                 String[] row = line.split(",");
-                if (i != 0) {
-                    csvData.add(row);
+                for (int i = 0; i < row.length; i++) {
+                    // Trim each field to remove leading and trailing whitespace
+                    row[i] = row[i].trim();
+
+                    // Check if the field is empty or consists only of whitespace
+                    if (row[i].isEmpty()) {
+                        row[i] = "NULL"; // Replace with "NULL" or any other representation
+                    }
                 }
-                i = 12;
+                csvData.add(row);
             }
         } catch (IOException e) {
             System.err.println("An error occurred while reading the file: " + e.getMessage());

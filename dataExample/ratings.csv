@@ -1,85 +1,109 @@
 Const,Your Rating,Date Rated,Title,URL,Title Type,IMDb Rating,Runtime (mins),Year,Genres,Num Votes,Release Date,Directors
-tt10293406,6,2023-08-09,The Power of the Dog,https://www.imdb.com/title/tt10293406/,movie,6.8,126,2021,"Drama, Western",185308,2021-09-02,Jane Campion
-tt10472884,8,2021-05-04,Seishun Buta Yaro wa Yumemiru Shoujo no Yume wo Minai,https://www.imdb.com/title/tt10472884/,movie,8.2,89,2019,"Animation, Drama, Fantasy, Mystery, Romance, Thriller",5680,2019-06-15,Sôichi Masui
-tt10479420,7,2021-05-04,Given,https://www.imdb.com/title/tt10479420/,tvMiniSeries,8.3,23,2019,"Animation, Drama, Music, Romance",4263,2019-07-11,
-tt10638036,7,2023-08-09,Heartstopper,https://www.imdb.com/title/tt10638036/,tvSeries,8.6,30,2022,"Drama, Romance",64898,2022-04-22,
-tt0108778,10,2023-08-09,Friends,https://www.imdb.com/title/tt0108778/,tvSeries,8.9,22,1994,"Comedy, Romance",1039031,1994-09-22,
-tt10886166,1,2023-08-09,365 dni,https://www.imdb.com/title/tt10886166/,movie,3.3,114,2020,"Drama, Romance",94551,2020-02-07,"Barbara Bialowas, Tomasz Mandes"
-tt10954274,7,2021-05-07,ID:Invaded,https://www.imdb.com/title/tt10954274/,tvMiniSeries,7.5,24,2020,"Animation, Crime, Drama, Mystery, Sci-Fi, Thriller",2976,2020-01-05,
-tt10970552,7,2021-05-04,The Haunting of Bly Manor,https://www.imdb.com/title/tt10970552/,tvMiniSeries,7.4,494,2020,"Drama, Horror, Mystery, Thriller",115078,2020-10-09,
-tt11107074,8,2021-05-04,Boku no hîrô akademia THE MOVIE - Hîrôzu: Raijingu,https://www.imdb.com/title/tt11107074/,movie,7.8,104,2019,"Animation, Action, Adventure, Fantasy, Sci-Fi",9135,2019-12-20,Kenji Nagasaki
-tt11755740,2,2023-08-09,Texas Chainsaw Massacre,https://www.imdb.com/title/tt11755740/,movie,4.7,83,2022,"Crime, Horror, Thriller",57694,2022-02-18,David Blue Garcia
-tt11802992,8,2021-05-07,Given,https://www.imdb.com/title/tt11802992/,movie,7.7,59,2020,"Animation, Drama, Music, Romance",2145,2020-08-22,Hikaru Yamaguchi
-tt0118799,10,2023-08-09,La vita è bella,https://www.imdb.com/title/tt0118799/,movie,8.6,116,1997,"Comedy, Drama, Romance, War",718310,1997-12-20,Roberto Benigni
-tt12331304,6,2021-05-07,"Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen",https://www.imdb.com/title/tt12331304/,tvSeries,6.4,23,2020,"Animation, Action, Fantasy, Romance, War",856,2020-10-07,
-tt12343534,9,2021-05-04,Jujutsu Kaisen,https://www.imdb.com/title/tt12343534/,tvSeries,8.5,24,2020,"Animation, Action, Adventure, Fantasy, Thriller",79209,2020-10-02,
-tt12350092,8,2021-05-04,Gibiate,https://www.imdb.com/title/tt12350092/,tvSeries,4.2,24,2020,"Animation, Action, Adventure, Fantasy",191,2020-07-15,
-tt12642634,8,2021-05-07,Ikebukuro West Gate Park,https://www.imdb.com/title/tt12642634/,tvSeries,6.4,,2020,"Animation, Drama, Mystery, Romance",223,2020-10-06,
-tt12831098,9,2021-05-04,Yuukoku no Moriarty,https://www.imdb.com/title/tt12831098/,tvSeries,8.0,23,2020,"Animation, Crime, Mystery, Thriller",3312,2020-10-11,
-tt13103134,7,2021-05-04,Hori-san to Miyamura-kun,https://www.imdb.com/title/tt13103134/,tvMiniSeries,8.1,24,2021,"Animation, Comedy, Drama, Romance",12456,2021-01-09,
-tt1312171,6,2023-08-09,The Umbrella Academy,https://www.imdb.com/title/tt1312171/,tvSeries,7.9,60,2019,"Action, Adventure, Comedy, Drama, Fantasy, Sci-Fi",261446,2019-02-15,
-tt13196080,7,2022-09-04,Tokyo Revengers,https://www.imdb.com/title/tt13196080/,tvSeries,7.9,24,2021,"Animation, Action, Drama",21651,2021-04-10,
-tt1396484,8,2021-05-04,It,https://www.imdb.com/title/tt1396484/,movie,7.3,135,2017,Horror,577301,2017-09-05,Andy Muschietti
-tt14310946,8,2023-08-09,The Blood of the Dinosaurs,https://www.imdb.com/title/tt14310946/,short,7.4,12,2021,"Short, Comedy",12,2021-07-01,Joe Badon
-tt15398776,9,2023-08-09,Oppenheimer,https://www.imdb.com/title/tt15398776/,movie,8.6,180,2023,"Biography, Drama, History",315913,2023-07-11,Christopher Nolan
-tt16385148,3,2023-08-09,Starfuckers,https://www.imdb.com/title/tt16385148/,short,6.5,14,2022,"Short, Drama",654,2022-01-20,Antonio Marziale
-tt1751634,5,2023-08-09,The Sandman,https://www.imdb.com/title/tt1751634/,tvSeries,7.7,45,2022,"Drama, Fantasy, Horror, Mystery, Sci-Fi",160253,2022-08-05,
-tt1865718,10,2021-05-08,Gravity Falls,https://www.imdb.com/title/tt1865718/,tvSeries,8.9,23,2012,"Animation, Adventure, Comedy, Family, Fantasy, Horror",122883,2012-06-14,
-tt19768100,6,2023-08-09,Hideous,https://www.imdb.com/title/tt19768100/,short,6.6,22,2022,"Short, Drama, Horror, Music, Musical",600,2022-05-22,Yann Gonzalez
-tt19885626,7,2023-08-09,Ricky Gervais: SuperNature,https://www.imdb.com/title/tt19885626/,tvSpecial,7.5,64,2022,Comedy,21001,2022-05-24,John L. Spencer
-tt21358976,9,2023-08-09,What Is in the Ocean?,https://www.imdb.com/title/tt21358976/,short,,6,2022,"Short, Sci-Fi",,2022-07-24,Preston Moss
-tt2224026,8,2022-09-04,Home,https://www.imdb.com/title/tt2224026/,movie,6.5,94,2015,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",108088,2015-03-07,Tim Johnson
-tt2250192,7,2021-05-04,Sword Art Online,https://www.imdb.com/title/tt2250192/,tvSeries,7.5,24,2012,"Animation, Action, Adventure, Fantasy, Romance, Sci-Fi, Thriller",49539,2012-06-24,
-tt2283362,6,2021-05-05,Jumanji: Welcome to the Jungle,https://www.imdb.com/title/tt2283362/,movie,6.9,119,2017,"Action, Adventure, Comedy, Fantasy",402467,2017-12-05,Jake Kasdan
-tt2442560,10,2023-08-09,Peaky Blinders,https://www.imdb.com/title/tt2442560/,tvSeries,8.8,60,2013,"Crime, Drama",596829,2013-09-12,
-tt2560140,9,2021-05-04,Shingeki no Kyojin,https://www.imdb.com/title/tt2560140/,tvSeries,9.1,24,2013,"Animation, Action, Adventure, Drama, Fantasy, Horror",425353,2013-04-07,
-tt2703720,8,2021-05-04,Yahari ore no seishun rabukome wa machigatteiru.,https://www.imdb.com/title/tt2703720/,tvSeries,7.9,24,2013,"Animation, Comedy, Drama, Romance",7964,2013-04-05,
-tt2980516,8,2023-08-09,The Theory of Everything,https://www.imdb.com/title/tt2980516/,movie,7.7,123,2014,"Biography, Drama, Romance",467942,2014-09-07,James Marsh
-tt3398540,8,2021-05-05,Haikyuu!!,https://www.imdb.com/title/tt3398540/,tvSeries,8.7,24,2014,"Animation, Comedy, Drama, Sport",30645,2014-04-05,
-tt3402236,8,2021-05-05,Murder on the Orient Express,https://www.imdb.com/title/tt3402236/,movie,6.5,114,2017,"Crime, Drama, Mystery",272002,2017-11-03,Kenneth Branagh
-tt3581932,8,2021-05-04,And Then There Were None,https://www.imdb.com/title/tt3581932/,tvMiniSeries,7.8,58,2015,"Crime, Drama, Mystery, Thriller",41730,2015-05-07,
-tt3613454,10,2021-05-04,Zankyô no teroru,https://www.imdb.com/title/tt3613454/,tvMiniSeries,7.8,23,2014,"Animation, Crime, Drama, Mystery, Thriller",12613,2014-07-11,
-tt3741634,7,2021-05-04,Tokyo Ghoul,https://www.imdb.com/title/tt3741634/,tvMiniSeries,7.7,24,2014,"Animation, Action, Drama, Fantasy, Horror, Thriller",59706,2014-07-03,
-tt3894916,5,2021-05-04,Terra Formars,https://www.imdb.com/title/tt3894916/,tvSeries,6.4,,2014,"Animation, Action, Horror, Sci-Fi",1240,2014-08-08,
-tt3909224,8,2021-05-04,Nanatsu no taizai,https://www.imdb.com/title/tt3909224/,tvMiniSeries,7.8,24,2014,"Animation, Action, Adventure, Comedy, Fantasy",35501,2014-09-01,
-tt0409591,10,2021-05-04,Naruto,https://www.imdb.com/title/tt0409591/,tvSeries,8.4,24,2002,"Animation, Action, Adventure, Comedy, Fantasy",115175,2002-10-03,
-tt0421357,9,2021-05-04,Hagane no renkinjutsushi,https://www.imdb.com/title/tt0421357/,tvSeries,8.5,24,2003,"Animation, Action, Adventure, Comedy, Drama, Fantasy, Sci-Fi",74494,2003-10-04,
-tt0426719,9,2021-05-05,Hunter x Hunter,https://www.imdb.com/title/tt0426719/,tvSeries,8.6,23,1999,"Animation, Action, Adventure, Comedy, Fantasy",8934,1999-10-16,
-tt0435286,7,2021-05-08,Gekijôban Poketto Monsutâ Adobansu Jenerêshon: Rekkû no hômonsha Deokishisu,https://www.imdb.com/title/tt0435286/,movie,6.0,98,2004,"Animation, Action, Adventure, Drama, Family, Fantasy, Sci-Fi",4224,2004-07-17,"Darren Dunstan, Kunihiko Yuyama"
-tt4508902,8,2021-05-04,One Punch Man: Wanpanman,https://www.imdb.com/title/tt4508902/,tvSeries,8.7,24,2015,"Animation, Action, Comedy, Fantasy, Sci-Fi",174288,2015-10-01,
-tt4574334,9,2023-08-09,Stranger Things,https://www.imdb.com/title/tt4574334/,tvSeries,8.7,51,2016,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",1264631,2016-07-11,
-tt4604612,8,2023-08-09,The Alienist,https://www.imdb.com/title/tt4604612/,tvSeries,7.7,60,2018,"Crime, Drama, Mystery",57508,2018-01-21,
-tt4633694,8,2021-05-05,Spider-Man: Into the Spider-Verse,https://www.imdb.com/title/tt4633694/,movie,8.4,117,2018,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",617723,2018-12-12,"Peter Ramsey, Rodney Rothman, Bob Persichetti"
-tt5180504,8,2023-08-09,The Witcher,https://www.imdb.com/title/tt5180504/,tvSeries,8.0,60,2019,"Action, Adventure, Drama, Fantasy, Mystery",543189,2019-12-20,
-tt5249462,9,2021-05-04,Boku dake ga inai machi,https://www.imdb.com/title/tt5249462/,tvMiniSeries,8.5,264,2016,"Animation, Crime, Drama, Fantasy, Mystery, Sci-Fi, Thriller",53471,2016-01-07,
-tt5311514,9,2021-05-04,Kimi no na wa.,https://www.imdb.com/title/tt5311514/,movie,8.4,106,2016,"Animation, Drama, Fantasy, Romance",294755,2016-07-03,Makoto Shinkai
-tt5323662,9,2021-05-04,Koe no katachi,https://www.imdb.com/title/tt5323662/,movie,8.1,130,2016,"Animation, Drama",92343,2016-09-17,Naoko Yamada
-tt5544384,7,2021-05-04,Gekijô-ban Sôdo Âto Onrain: Sword Art Online - Ôdinaru sukêru -,https://www.imdb.com/title/tt5544384/,movie,7.3,119,2017,"Animation, Action, Adventure, Fantasy, Sci-Fi",8662,2017-02-18,Tomohiko Itô
-tt5626028,8,2021-05-04,Boku no hîrô akademia,https://www.imdb.com/title/tt5626028/,tvSeries,8.3,24,2016,"Animation, Action, Adventure, Fantasy, Sci-Fi",71629,2016-04-03,
-tt5679720,8,2021-05-04,Bungou Stray Dogs,https://www.imdb.com/title/tt5679720/,tvSeries,7.8,24,2016,"Animation, Action, Comedy, Crime, Fantasy, Mystery, Thriller",8163,2016-04-06,
-tt5726616,8,2023-08-09,Call Me by Your Name,https://www.imdb.com/title/tt5726616/,movie,7.8,132,2017,"Drama, Romance",293880,2017-01-22,Luca Guadagnino
-tt6163360,6,2021-05-04,Recorder to Randoseru,https://www.imdb.com/title/tt6163360/,tvSeries,6.4,3,2012,"Animation, Comedy",69,2012-01-05,
-tt6257970,8,2021-05-04,The End of the F***ing World,https://www.imdb.com/title/tt6257970/,tvSeries,8.0,25,2017,"Adventure, Comedy, Crime, Drama, Romance, Thriller",207113,2017-10-24,
-tt6468322,5,2023-08-09,La casa de papel,https://www.imdb.com/title/tt6468322/,tvSeries,8.2,70,2017,"Action, Crime, Drama, Mystery, Thriller",503878,2017-05-02,
-tt7236034,9,2021-05-04,Kimi no suizô o tabetai,https://www.imdb.com/title/tt7236034/,movie,8.0,109,2018,"Animation, Drama, Family, Romance",20915,2018-08-23,Shin'ichirô Ushijima
-tt7349950,7,2021-05-04,It Chapter Two,https://www.imdb.com/title/tt7349950/,movie,6.5,169,2019,"Drama, Fantasy, Horror",285163,2019-08-26,Andy Muschietti
-tt7745068,8,2021-05-04,Boku no hîrô akademia THE MOVIE: 2-ri no eiyû,https://www.imdb.com/title/tt7745068/,movie,7.3,96,2018,"Animation, Action, Adventure, Fantasy, Sci-Fi",11714,2018-07-05,Kenji Nagasaki
-tt7767422,7,2023-08-09,Sex Education,https://www.imdb.com/title/tt7767422/,tvSeries,8.3,45,2019,"Comedy, Drama",307847,2019-01-11,
-tt7830574,8,2023-08-09,Ricky Gervais: Humanity,https://www.imdb.com/title/tt7830574/,tvSpecial,7.9,79,2018,Comedy,22205,2018-03-13,John L. Spencer
-tt7865090,7,2021-05-04,DARLING in the FRANXX,https://www.imdb.com/title/tt7865090/,tvSeries,7.3,24,2018,"Animation, Action, Drama, Romance, Sci-Fi",12346,2018-01-13,
-tt7975244,7,2021-05-05,Jumanji: The Next Level,https://www.imdb.com/title/tt7975244/,movie,6.7,123,2019,"Action, Adventure, Comedy, Fantasy",268047,2019-12-04,Jake Kasdan
-tt0807832,10,2021-05-04,Mushishi,https://www.imdb.com/title/tt0807832/,tvSeries,8.5,25,2005,"Animation, Drama, Fantasy, Horror, Mystery, Thriller",14111,2005-10-22,
-tt8132700,1,2023-08-09,Behind the Curve,https://www.imdb.com/title/tt8132700/,movie,6.5,96,2018,Documentary,10495,2018-04-30,Daniel J. Clark
-tt8242084,5,2021-05-05,My Spy,https://www.imdb.com/title/tt8242084/,movie,6.3,99,2020,"Action, Comedy",33006,2020-01-09,Peter Segal
-tt0829150,7,2021-05-05,Dracula Untold,https://www.imdb.com/title/tt0829150/,movie,6.2,92,2014,"Action, Drama, Fantasy, Horror",202529,2014-09-30,Gary Shore
-tt8398600,10,2023-08-09,After Life,https://www.imdb.com/title/tt8398600/,tvSeries,8.4,30,2019,"Comedy, Drama",145583,2019-03-08,
-tt8740790,7,2023-08-09,Bridgerton,https://www.imdb.com/title/tt8740790/,tvSeries,7.4,60,2020,"Drama, History, Romance",154750,2020-12-25,
-tt8788458,8,2021-05-04,Yakusoku no Neverland,https://www.imdb.com/title/tt8788458/,tvSeries,8.2,23,2019,"Animation, Action, Adventure, Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",43035,2019-01-09,
-tt0898266,9,2021-05-04,The Big Bang Theory,https://www.imdb.com/title/tt0898266/,tvSeries,8.2,22,2007,"Comedy, Romance",836780,2006-05-01,
-tt8993398,7,2021-05-04,Seishun Buta Yaro wa Bunny Girl-senpai no Yume wo Minai,https://www.imdb.com/title/tt8993398/,tvSeries,8.1,24,2018,"Animation, Drama, Fantasy, Mystery, Romance, Thriller",14709,2018-10-03,
-tt0910970,9,2021-05-08,WALL·E,https://www.imdb.com/title/tt0910970/,movie,8.4,98,2008,"Animation, Adventure, Family, Sci-Fi",1157068,2008-06-21,Andrew Stanton
-tt9310330,5,2021-08-07,Yasuke,https://www.imdb.com/title/tt9310330/,tvSeries,6.2,30,2021,"Animation, Action, Adventure, Drama, Fantasy, Thriller",5782,2021-04-29,
-tt9335498,9,2021-05-04,Kimetsu no Yaiba,https://www.imdb.com/title/tt9335498/,tvSeries,8.7,24,2019,"Animation, Action, Adventure, Fantasy, Thriller",128818,2019-04-06,
-tt9426210,9,2021-05-04,Tenki no ko,https://www.imdb.com/title/tt9426210/,movie,7.5,112,2019,"Animation, Drama, Fantasy, Romance",49786,2019-01-15,Makoto Shinkai
-tt9446688,7,2023-08-09,I Am Not Okay with This,https://www.imdb.com/title/tt9446688/,tvSeries,7.5,30,2020,"Comedy, Drama, Fantasy, Sci-Fi",69876,2020-02-26,
-tt0988824,10,2021-05-04,Naruto: Shippûden,https://www.imdb.com/title/tt0988824/,tvSeries,8.7,24,2007,"Animation, Action, Adventure, Comedy, Drama, Fantasy",142332,2007-02-15,
+tt10293406,6,2023-08-09,The Power of the Dog,https://www.imdb.com/title/tt10293406/,movie,6.8,126,2021,"Drama, Western",187910,2021-09-02,Jane Campion
+tt10472884,8,2021-05-04,Seishun Buta Yaro wa Yumemiru Shoujo no Yume wo Minai,https://www.imdb.com/title/tt10472884/,movie,8.2,89,2019,"Animation, Drama, Fantasy, Mystery, Romance, Thriller",5883,2019-06-15,Sôichi Masui
+tt10479420,7,2021-05-04,Given,https://www.imdb.com/title/tt10479420/,tvMiniSeries,8.3,23,2019,"Animation, Drama, Music, Romance",4443,2019-07-11,Unkown
+tt10638036,7,2023-08-09,Given,https://www.imdb.com/title/tt10638036/,tvSeries,8.6,30,2022,"Drama, Romance",71730,2022-04-22,Unkown
+tt0108778,10,2023-08-09,Friends,https://www.imdb.com/title/tt0108778/,tvSeries,8.9,22,1994,"Comedy, Romance",1049834,1994-09-22,Unkown
+tt10886166,1,2023-08-09,365 dni,https://www.imdb.com/title/tt10886166/,movie,3.3,114,2020,"Drama, Romance",95610,2020-02-07,"Barbara Bialowas, Tomasz Mandes"
+tt10954274,7,2021-05-07,ID:Invaded,https://www.imdb.com/title/tt10954274/,tvMiniSeries,7.5,24,2020,"Animation, Crime, Drama, Mystery, Sci-Fi, Thriller",3040,2020-01-05,Unkown
+tt10970552,7,2021-05-04,The Haunting of Bly Manor,https://www.imdb.com/title/tt10970552/,tvMiniSeries,7.4,494,2020,"Drama, Horror, Mystery, Thriller",119233,2020-10-09,Unkown
+tt11107074,8,2021-05-04,Boku no hîrô akademia THE MOVIE - Hîrôzu: Raijingu,https://www.imdb.com/title/tt11107074/,movie,7.8,104,2019,"Animation, Action, Adventure, Fantasy, Sci-Fi",9320,2019-12-20,Kenji Nagasaki
+tt11657662,8,2023-08-22,The Witcher: Nightmare of the Wolf,https://www.imdb.com/title/tt11657662/,movie,7.2,83,2021,"Animation, Action, Adventure, Drama, Fantasy, Mystery",48627,2021-08-23,Kwang Il Han
+tt11755740,2,2023-08-09,Texas Chainsaw Massacre,https://www.imdb.com/title/tt11755740/,movie,4.7,83,2022,"Crime, Horror, Thriller",59217,2022-02-18,David Blue Garcia
+tt11802992,8,2021-05-07,Given,https://www.imdb.com/title/tt11802992/,movie,7.7,59,2020,"Animation, Drama, Music, Romance",2224,2020-08-22,Hikaru Yamaguchi
+tt0118799,10,2023-08-09,La vita è bella,https://www.imdb.com/title/tt0118799/,movie,8.6,116,1997,"Comedy, Drama, Romance, War",725102,1997-12-20,Roberto Benigni
+tt1217209,8,2023-08-21,Brave,https://www.imdb.com/title/tt1217209/,movie,7.1,93,2012,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Mystery",431350,2012-06-10,"Steve Purcell, Mark Andrews, Brenda Chapman"
+tt12331304,6,2021-05-07,"Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen",https://www.imdb.com/title/tt12331304/,tvSeries,6.4,23,2020,"Animation, Action, Fantasy, Romance, War",885,2020-10-07,Unkown
+tt12343534,8,2023-08-21,Jujutsu Kaisen,https://www.imdb.com/title/tt12343534/,tvSeries,8.5,24,2020,"Animation, Action, Adventure, Fantasy, Thriller",87683,2020-10-02,Unkown
+tt12350092,6,2023-08-21,Gibiate,https://www.imdb.com/title/tt12350092/,tvSeries,4.2,24,2020,"Animation, Action, Adventure, Fantasy",193,2020-07-15,Unkown
+tt12642634,8,2023-08-21,Ikebukuro West Gate Park,https://www.imdb.com/title/tt12642634/,tvSeries,6.4,Unkown,2020,"Animation, Drama, Mystery, Romance",230,2020-10-06,Unkown
+tt12831098,9,2021-05-04,Yuukoku no Moriarty,https://www.imdb.com/title/tt12831098/,tvSeries,8.0,23,2020,"Animation, Crime, Mystery, Thriller",3474,2020-10-11,Unkown
+tt13103134,7,2021-05-04,Hori-san to Miyamura-kun,https://www.imdb.com/title/tt13103134/,tvMiniSeries,8.1,24,2021,"Animation, Comedy, Drama, Romance",13220,2021-01-09,Unkown
+tt1312171,6,2023-08-09,The Umbrella Academy,https://www.imdb.com/title/tt1312171/,tvSeries,7.9,60,2019,"Action, Adventure, Comedy, Drama, Fantasy, Sci-Fi",265288,2019-02-15,Unkown
+tt13196080,7,2022-09-04,Tokyo Revengers,https://www.imdb.com/title/tt13196080/,tvSeries,7.9,24,2021,"Animation, Action, Drama",22776,2021-04-10,Unkown
+tt1323594,8,2023-08-21,Despicable Me,https://www.imdb.com/title/tt1323594/,movie,7.6,95,2010,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",570050,2010-06-20,"Chris Renaud, Pierre Coffin"
+tt1396484,8,2021-05-04,It,https://www.imdb.com/title/tt1396484/,movie,7.3,135,2017,Horror,585510,2017-09-05,Andy Muschietti
+tt14310946,8,2023-08-21,The Blood of the Dinosaurs,https://www.imdb.com/title/tt14310946/,short,7.5,12,2021,"Short, Comedy",14,2021-07-01,Joe Badon
+tt1453405,7,2023-08-21,Monsters University,https://www.imdb.com/title/tt1453405/,movie,7.2,104,2013,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",379443,2013-06-05,Dan Scanlon
+tt15398776,9,2023-08-09,Oppenheimer,https://www.imdb.com/title/tt15398776/,movie,8.5,180,2023,"Biography, Drama, History",463241,2023-07-11,Christopher Nolan
+tt1630029,8,2023-08-21,Avatar: The Way of Water,https://www.imdb.com/title/tt1630029/,movie,7.6,192,2022,"Action, Adventure, Fantasy, Sci-Fi",463946,2022-12-06,James Cameron
+tt16385148,3,2023-08-09,Starfuckers,https://www.imdb.com/title/tt16385148/,short,6.5,14,2022,"Short, Drama",674,2022-01-20,Antonio Marziale
+tt1690953,8,2023-08-21,Despicable Me 2,https://www.imdb.com/title/tt1690953/,movie,7.3,98,2013,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",416741,2013-06-16,"Chris Renaud, Pierre Coffin"
+tt1751634,5,2023-08-09,The Sandman,https://www.imdb.com/title/tt1751634/,tvSeries,7.7,45,2022,"Drama, Fantasy, Horror, Mystery, Sci-Fi",163013,2022-08-05,Unkown
+tt1772341,8,2023-08-21,Wreck-It Ralph,https://www.imdb.com/title/tt1772341/,movie,7.7,101,2012,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",446476,2012-11-01,Rich Moore
+tt1865718,10,2021-05-08,Gravity Falls,https://www.imdb.com/title/tt1865718/,tvSeries,8.9,23,2012,"Animation, Adventure, Comedy, Family, Fantasy, Horror",126459,2012-06-14,Unkown
+tt19768100,6,2023-08-09,Hideous,https://www.imdb.com/title/tt19768100/,short,6.6,22,2022,"Short, Drama, Horror, Music, Musical",634,2022-05-22,Yann Gonzalez
+tt19885626,7,2023-08-09,Ricky Gervais: SuperNature,https://www.imdb.com/title/tt19885626/,tvSpecial,7.5,64,2022,Comedy,21262,2022-05-24,John L. Spencer
+tt21358976,7,2023-08-21,What Is in the Ocean?,https://www.imdb.com/title/tt21358976/,short,Unkown,6,2022,"Short, Sci-Fi",Unkown,2022-07-24,Preston Moss
+tt2155399,5,2023-08-26,Variações,https://www.imdb.com/title/tt2155399/,movie,7.1,109,2019,"Biography, Drama, Music, Romance",3764,2019-08-19,João Maia
+tt2224026,8,2022-09-04,Home,https://www.imdb.com/title/tt2224026/,movie,6.5,94,2015,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",109075,2015-03-07,Tim Johnson
+tt2245084,10,2023-08-21,Big Hero 6,https://www.imdb.com/title/tt2245084/,movie,7.8,102,2014,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",487540,2014-10-23,"Don Hall, Chris Williams"
+tt2250192,7,2021-05-04,Sword Art Online,https://www.imdb.com/title/tt2250192/,tvSeries,7.5,24,2012,"Animation, Action, Adventure, Fantasy, Romance, Sci-Fi, Thriller",50397,2012-06-24,Unkown
+tt2277860,7,2023-08-21,Finding Dory,https://www.imdb.com/title/tt2277860/,movie,7.2,97,2016,"Animation, Adventure, Comedy, Family",294052,2016-06-08,"Andrew Stanton, Angus MacLane"
+tt2283362,6,2021-05-05,Jumanji: Welcome to the Jungle,https://www.imdb.com/title/tt2283362/,movie,6.9,119,2017,"Action, Adventure, Comedy, Fantasy",407062,2017-12-05,Jake Kasdan
+tt2293640,7,2023-08-21,Minions,https://www.imdb.com/title/tt2293640/,movie,6.4,91,2015,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",252112,2015-06-11,"Kyle Balda, Pierre Coffin"
+tt0238784,9,2023-08-10,Gilmore Girls,https://www.imdb.com/title/tt0238784/,tvSeries,8.2,44,2000,"Comedy, Drama",140698,2000-10-05,Unkown
+tt2442560,10,2023-08-09,Peaky Blinders,https://www.imdb.com/title/tt2442560/,tvSeries,8.8,2109,2013,"Crime, Drama",612331,2013-09-12,Unkown
+tt2560140,9,2021-05-04,Shingeki no Kyojin,https://www.imdb.com/title/tt2560140/,tvSeries,9.0,24,2013,"Animation, Action, Adventure, Drama, Fantasy, Horror",444274,2013-04-07,Unkown
+tt2703720,8,2021-05-04,Yahari ore no seishun rabukome wa machigatteiru.,https://www.imdb.com/title/tt2703720/,tvSeries,7.9,24,2013,"Animation, Comedy, Drama, Romance",8216,2013-04-05,Unkown
+tt2709768,6,2023-08-21,The Secret Life of Pets,https://www.imdb.com/title/tt2709768/,movie,6.5,87,2016,"Animation, Adventure, Comedy, Family",212379,2016-06-16,Chris Renaud
+tt27541298,4,2023-08-21,Depp V Heard,https://www.imdb.com/title/tt27541298/,tvMiniSeries,5.0,146,2023,"Documentary, Crime",6439,2023-05-21,Unkown
+tt2948356,5,2023-08-21,Zootopia,https://www.imdb.com/title/tt2948356/,movie,8.0,108,2016,"Animation, Adventure, Comedy, Crime, Family, Mystery",528939,2016-02-10,"Rich Moore, Jared Bush, Byron Howard"
+tt2980516,8,2023-08-09,The Theory of Everything,https://www.imdb.com/title/tt2980516/,movie,7.7,123,2014,"Biography, Drama, Romance",471789,2014-09-07,James Marsh
+tt3398540,8,2021-05-05,Haikyuu!!,https://www.imdb.com/title/tt3398540/,tvSeries,8.7,24,2014,"Animation, Comedy, Drama, Sport",32013,2014-04-05,Unkown
+tt3402236,8,2021-05-05,Murder on the Orient Express,https://www.imdb.com/title/tt3402236/,movie,6.5,114,2017,"Crime, Drama, Mystery",279225,2017-11-03,Kenneth Branagh
+tt3470600,5,2023-08-21,Sing,https://www.imdb.com/title/tt3470600/,movie,7.1,108,2016,"Animation, Comedy, Family, Musical",184044,2016-09-11,"Garth Jennings, Christophe Lourdelet"
+tt3521164,6,2023-08-21,Moana,https://www.imdb.com/title/tt3521164/,movie,7.6,107,2016,"Animation, Adventure, Comedy, Family, Fantasy, Musical",362754,2016-11-14,"Don Hall, Ron Clements, Chris Williams, John Musker"
+tt3581932,7,2023-08-21,And Then There Were None,https://www.imdb.com/title/tt3581932/,tvMiniSeries,7.8,58,2015,"Crime, Drama, Mystery, Thriller",42324,2015-05-07,Unkown
+tt3606756,8,2023-08-21,Incredibles 2,https://www.imdb.com/title/tt3606756/,movie,7.6,118,2018,"Animation, Action, Adventure, Comedy, Family, Sci-Fi",319147,2018-06-05,Brad Bird
+tt3613454,10,2021-05-04,Zankyô no teroru,https://www.imdb.com/title/tt3613454/,tvMiniSeries,7.8,23,2014,"Animation, Crime, Drama, Mystery, Thriller",12938,2014-07-11,Unkown
+tt3741634,7,2021-05-04,Tokyo Ghoul,https://www.imdb.com/title/tt3741634/,tvMiniSeries,7.7,24,2014,"Animation, Action, Drama, Fantasy, Horror, Thriller",61080,2014-07-03,Unkown
+tt3894916,2,2023-08-21,Terra Formars,https://www.imdb.com/title/tt3894916/,tvSeries,6.4,Unkown,2014,"Animation, Action, Horror, Sci-Fi",1252,2014-08-08,Unkown
+tt3909224,8,2021-05-04,Nanatsu no taizai,https://www.imdb.com/title/tt3909224/,tvSeries,7.8,24,2014,"Animation, Action, Adventure, Comedy, Fantasy",36245,2014-09-01,Unkown
+tt0409591,6,2023-08-21,Naruto,https://www.imdb.com/title/tt0409591/,tvSeries,8.4,24,2002,"Animation, Action, Adventure, Comedy, Fantasy",119240,2002-10-03,Unkown
+tt0421357,9,2021-05-04,Hagane no renkinjutsushi,https://www.imdb.com/title/tt0421357/,tvSeries,8.5,24,2003,"Animation, Action, Adventure, Comedy, Drama, Fantasy, Sci-Fi",75299,2003-10-04,Unkown
+tt0426719,9,2021-05-05,Hunter x Hunter,https://www.imdb.com/title/tt0426719/,tvSeries,8.6,23,1999,"Animation, Action, Adventure, Comedy, Fantasy",9068,1999-10-16,Unkown
+tt0435286,7,2021-05-08,Gekijôban Poketto Monsutâ Adobansu Jenerêshon: Rekkû no hômonsha Deokishisu,https://www.imdb.com/title/tt0435286/,movie,6.0,98,2004,"Animation, Action, Adventure, Drama, Family, Fantasy, Sci-Fi",4283,2004-07-17,"Darren Dunstan, Kunihiko Yuyama"
+tt4508902,6,2023-08-21,One Punch Man: Wanpanman,https://www.imdb.com/title/tt4508902/,tvSeries,8.7,24,2015,"Animation, Action, Comedy, Fantasy, Sci-Fi",178124,2015-10-01,Unkown
+tt4574334,7,2023-08-21,Stranger Things,https://www.imdb.com/title/tt4574334/,tvSeries,8.7,51,2016,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",1283471,2016-07-11,Unkown
+tt4604612,8,2023-08-09,The Alienist,https://www.imdb.com/title/tt4604612/,tvSeries,7.7,60,2018,"Crime, Drama, Mystery",58238,2018-01-21,Unkown
+tt4633694,8,2021-05-05,Spider-Man: Into the Spider-Verse,https://www.imdb.com/title/tt4633694/,movie,8.4,117,2018,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",634480,2018-12-12,"Peter Ramsey, Rodney Rothman, Bob Persichetti"
+tt0499549,7,2023-08-21,Avatar,https://www.imdb.com/title/tt0499549/,movie,7.9,162,2009,"Action, Adventure, Fantasy, Sci-Fi",1363006,2009-12-10,James Cameron
+tt5180504,8,2023-08-09,The Witcher,https://www.imdb.com/title/tt5180504/,tvSeries,8.0,60,2019,"Action, Adventure, Drama, Fantasy, Mystery",553992,2019-12-20,Unkown
+tt5249462,9,2021-05-04,Boku dake ga inai machi,https://www.imdb.com/title/tt5249462/,tvMiniSeries,8.5,264,2016,"Animation, Crime, Drama, Fantasy, Mystery, Sci-Fi, Thriller",54853,2016-01-07,Unkown
+tt5311514,9,2021-05-04,Kimi no na wa.,https://www.imdb.com/title/tt5311514/,movie,8.4,106,2016,"Animation, Drama, Fantasy, Romance",301307,2016-07-03,Makoto Shinkai
+tt5323662,9,2021-05-04,Koe no katachi,https://www.imdb.com/title/tt5323662/,movie,8.1,130,2016,"Animation, Drama",94499,2016-09-17,Naoko Yamada
+tt5544384,7,2021-05-04,Gekijô-ban Sôdo Âto Onrain: Sword Art Online - Ôdinaru sukêru -,https://www.imdb.com/title/tt5544384/,movie,7.3,119,2017,"Animation, Action, Adventure, Fantasy, Sci-Fi",8760,2017-02-18,Tomohiko Itô
+tt5562070,7,2023-08-22,Wish Dragon,https://www.imdb.com/title/tt5562070/,movie,7.2,98,2021,"Animation, Adventure, Comedy, Family, Fantasy, Romance",31695,2021-01-01,Chris Appelhans
+tt5626028,8,2021-05-04,Boku no hîrô akademia,https://www.imdb.com/title/tt5626028/,tvSeries,8.3,24,2016,"Animation, Action, Adventure, Fantasy, Sci-Fi",73647,2016-04-03,Unkown
+tt5679720,8,2021-05-04,Bungou Stray Dogs,https://www.imdb.com/title/tt5679720/,tvSeries,7.8,24,2016,"Animation, Action, Comedy, Crime, Fantasy, Mystery, Thriller",8784,2016-04-06,Unkown
+tt5726616,8,2023-08-09,Call Me by Your Name,https://www.imdb.com/title/tt5726616/,movie,7.8,132,2017,"Drama, Romance",299017,2017-01-22,Luca Guadagnino
+tt5848272,7,2023-08-21,Ralph Breaks the Internet,https://www.imdb.com/title/tt5848272/,movie,7.0,112,2018,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",175818,2018-11-05,"Rich Moore, Phil Johnston"
+tt6163360,6,2021-05-04,Recorder to Randoseru,https://www.imdb.com/title/tt6163360/,tvSeries,6.4,3,2012,"Animation, Comedy",69,2012-01-05,Unkown
+tt6226232,6,2023-08-21,Young Sheldon,https://www.imdb.com/title/tt6226232/,tvSeries,7.6,30,2017,Comedy,83397,2017-09-25,Unkown
+tt6257970,9,2023-08-21,The End of the F***ing World,https://www.imdb.com/title/tt6257970/,tvSeries,8.0,25,2017,"Adventure, Comedy, Crime, Drama, Romance, Thriller",210912,2017-10-24,Unkown
+tt6467266,6,2023-08-21,Sing 2,https://www.imdb.com/title/tt6467266/,movie,7.4,110,2021,"Animation, Adventure, Comedy, Family, Musical",79943,2021-11-14,"Garth Jennings, Christophe Lourdelet"
+tt6468322,5,2023-08-09,La casa de papel,https://www.imdb.com/title/tt6468322/,tvSeries,8.2,70,2017,"Action, Crime, Drama, Mystery, Thriller",510990,2017-05-02,Unkown
+tt7236034,7,2023-08-21,Kimi no suizô o tabetai,https://www.imdb.com/title/tt7236034/,movie,8.0,109,2018,"Animation, Drama, Family, Romance",21785,2018-08-23,Shin'ichirô Ushijima
+tt7349950,7,2021-05-04,It Chapter Two,https://www.imdb.com/title/tt7349950/,movie,6.5,169,2019,"Drama, Fantasy, Horror",290241,2019-08-26,Andy Muschietti
+tt7745068,8,2021-05-04,Boku no hîrô akademia THE MOVIE: 2-ri no eiyû,https://www.imdb.com/title/tt7745068/,movie,7.3,96,2018,"Animation, Action, Adventure, Fantasy, Sci-Fi",11932,2018-07-05,Kenji Nagasaki
+tt7767422,7,2023-08-09,Sex Education,https://www.imdb.com/title/tt7767422/,tvSeries,8.3,45,2019,"Comedy, Drama",329805,2019-01-11,Unkown
+tt7830574,8,2023-08-09,Ricky Gervais: Humanity,https://www.imdb.com/title/tt7830574/,tvSpecial,7.9,79,2018,Comedy,22378,2018-03-13,John L. Spencer
+tt7865090,7,2021-05-04,DARLING in the FRANXX,https://www.imdb.com/title/tt7865090/,tvSeries,7.3,24,2018,"Animation, Action, Drama, Romance, Sci-Fi",12758,2018-01-13,Unkown
+tt7975244,7,2021-05-05,Jumanji: The Next Level,https://www.imdb.com/title/tt7975244/,movie,6.7,123,2019,"Action, Adventure, Comedy, Fantasy",271516,2019-12-04,Jake Kasdan
+tt0807832,10,2021-05-04,Mushishi,https://www.imdb.com/title/tt0807832/,tvSeries,8.5,25,2005,"Animation, Drama, Fantasy, Horror, Mystery, Thriller",14222,2005-10-22,Unkown
+tt8132700,1,2023-08-09,Behind the Curve,https://www.imdb.com/title/tt8132700/,movie,6.5,96,2018,Documentary,10543,2018-04-30,Daniel J. Clark
+tt8242084,5,2021-05-05,My Spy,https://www.imdb.com/title/tt8242084/,movie,6.3,99,2020,"Action, Comedy",33436,2020-01-09,Peter Segal
+tt0829150,7,2021-05-05,Dracula Untold,https://www.imdb.com/title/tt0829150/,movie,6.2,92,2014,"Action, Drama, Fantasy, Horror",203934,2014-09-30,Gary Shore
+tt0837562,8,2023-08-21,Hotel Transylvania,https://www.imdb.com/title/tt0837562/,movie,7.0,91,2012,"Animation, Adventure, Comedy, Family, Fantasy, Horror, Romance",272533,2012-09-08,Genndy Tartakovsky
+tt8398600,10,2023-08-09,After Life,https://www.imdb.com/title/tt8398600/,tvSeries,8.4,30,2019,"Comedy, Drama",147495,2019-03-08,Unkown
+tt8740790,7,2023-08-09,Bridgerton,https://www.imdb.com/title/tt8740790/,tvSeries,7.4,60,2020,"Drama, Romance",158373,2020-12-25,Unkown
+tt8788458,8,2021-05-04,Yakusoku no Neverland,https://www.imdb.com/title/tt8788458/,tvSeries,8.2,23,2019,"Animation, Action, Adventure, Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",44224,2019-01-09,Unkown
+tt0898266,9,2021-05-04,The Big Bang Theory,https://www.imdb.com/title/tt0898266/,tvSeries,8.2,22,2007,"Comedy, Romance",844246,2006-05-01,Unkown
+tt8993398,7,2021-05-04,Seishun Buta Yaro wa Bunny Girl-senpai no Yume wo Minai,https://www.imdb.com/title/tt8993398/,tvSeries,8.1,24,2018,"Animation, Drama, Fantasy, Mystery, Romance, Thriller",15245,2018-10-03,Unkown
+tt0910970,9,2021-05-08,WALL·E,https://www.imdb.com/title/tt0910970/,movie,8.4,98,2008,"Animation, Adventure, Family, Sci-Fi",1168304,2008-06-21,Andrew Stanton
+tt9310330,5,2021-08-07,Yasuke,https://www.imdb.com/title/tt9310330/,tvSeries,6.2,30,2021,"Animation, Action, Adventure, Drama, Fantasy, Thriller",5872,2021-04-29,Unkown
+tt9335498,7,2023-08-21,Kimetsu no Yaiba,https://www.imdb.com/title/tt9335498/,tvSeries,8.6,24,2019,"Animation, Action, Adventure, Fantasy, Thriller",134323,2019-04-06,Unkown
+tt9426210,7,2023-08-21,Tenki no ko,https://www.imdb.com/title/tt9426210/,movie,7.5,112,2019,"Animation, Drama, Fantasy, Romance",51269,2019-01-15,Makoto Shinkai
+tt9446688,7,2023-08-09,I Am Not Okay with This,https://www.imdb.com/title/tt9446688/,tvSeries,7.5,30,2020,"Comedy, Drama, Fantasy, Sci-Fi",71601,2020-02-26,Unkown
+tt0988824,7,2023-08-21,Naruto: Shippûden,https://www.imdb.com/title/tt0988824/,tvSeries,8.7,24,2007,"Animation, Action, Adventure, Comedy, Drama, Fantasy",147990,2007-02-15,Unkown
